@@ -15,3 +15,6 @@ A Bank Management API which gives us the following functionality,
 These Endpoints were tested using POSTMAN.
 
 SQLite was used as Database to store the data.
+
+In order for this project to work correctly, all the packages specified in the pipfile are to be installed correctly.
+
